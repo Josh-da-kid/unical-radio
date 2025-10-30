@@ -80,7 +80,7 @@
 		class="min-h-screen md:flex items-center bg-gray-100 w-screen bg-cover bg-center bg-no-repeat py-12 transition-all duration-500"
 		style="background-image: url('{slides1[currentSlide].image}');"
 	>
-		<div class="flex flex-col p-4 sm:pl-32 gap-4">
+		<div class="mt-20 md:mt-0 flex flex-col p-4 sm:pl-32 gap-4">
 			<h1 class="font-bold text-4xl md:text-6xl text-white">{slides1[currentSlide].heading}</h1>
 			<p class="text-gray-200 font-semibold text-xl text-break-words lg:w-[520px]">
 				{slides1[currentSlide].text}

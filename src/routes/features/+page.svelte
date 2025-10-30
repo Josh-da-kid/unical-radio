@@ -2,7 +2,7 @@
 	class="min-h-screen md:flex text-center justify-center items-center bg-gray-100 w-screen bg-cover bg-center bg-no-repeat py-12 transition-all duration-500"
 	style="background-image: url('https://t4.ftcdn.net/jpg/06/27/45/45/360_F_627454572_sSfrnEK1DYnSJgSHR5dJJ0KrpzOxCJXY.jpg');"
 >
-	<div class="flex flex-col p-4 sm:pl-32 gap-4 justify-center items-center">
+	<div class="mt-20 md:mt-0 flex flex-col p-4 sm:pl-32 gap-4 justify-center items-center">
 		<h1 class="font-bold text-4xl md:text-6xl text-white lg:w-[800px]">
 			Revolutionary Broadcasting Features
 		</h1>
