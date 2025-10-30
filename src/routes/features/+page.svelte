@@ -128,7 +128,9 @@
 		</div>
 	</section>
 
-	<button class="border-2 text-blue-700 font-bold mt-8 border-blue-700 p-3 sm:p-5">SEE MORE</button>
+	<button class="w-[200px] border-2 text-blue-700 font-bold mt-8 border-blue-700 p-3 sm:p-5"
+		>SEE MORE</button
+	>
 </section>
 
 <hr class="border border-blue-500 mb-12 text-blue-700" />
