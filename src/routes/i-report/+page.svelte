@@ -10,7 +10,7 @@
 
 <section
 	class="min-h-screen md:flex text-center justify-center items-center bg-gray-100 bg-cover bg-center bg-no-repeat py-12 transition-all duration-500"
-	style="background-image: url('https://t4.ftcdn.net/jpg/06/27/45/45/360_F_627454572_sSfrnEK1DYnSJgSHR5dJJ0KrpzOxCJXY.jpg');"
+	style="background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSlweYgNvoOA2YLe0BMgUVrCNzKdxdN8ms3A&s');"
 >
 	<div class="mt-20 md:mt-0 flex flex-col p-4 md:pl-32 gap-4 justify-center items-center mx-auto">
 		<h1 class="font-bold text-4xl md:text-6xl text-white lg:w-[800px]">
