@@ -56,7 +56,7 @@
 	<h3 class="font-bold text-xl sm:text-3xl text-blue-700">NOW PLAYING</h3>
 	<h2 class="font-bold text-4xl sm:text-5xl">Morning News</h2>
 	<h4 class="text-xl sm:text-2xl">08:00 - 08:20</h4>
-	<p class="text-gray-500 text-xl sm:text-2xl sm:w-[400px] flex text-center mx-auto">
+	<p class="text-gray-500 text-xl sm:text-2xl sm:w-[400px] flex text-center mx-auto px-4">
 		To broadcast up-to-date, authentic, and verified news within and outside campus environs.
 	</p>
 
