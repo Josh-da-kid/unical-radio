@@ -12,7 +12,9 @@
 	</div>
 </section>
 
-<section class="sm:flex space-y-6 sm:space-y-0 text-center items-center justify-center mt-8 gap-12">
+<section
+	class="sm:flex space-y-6 sm:space-y-0 text-center items-center justify-center mt-8 gap-12 p-4"
+>
 	<div>
 		<h3 class="font-bold sm:text-5xl">45k+</h3>
 		<p class="text-gray-500 sm:text-2xl">Access User</p>
@@ -33,7 +35,7 @@
 
 <hr class="mt-12 border border-purple-700" />
 
-<section class="py-16 bg-white text-center">
+<section class="py-16 bg-white text-center p-4">
 	<h4 class="text-sm font-bold text-blue-700">ADVERTISEMENT SERVICES</h4>
 	<h2 class="text-3xl md:text-4xl font-extrabold text-gray-900 mb-3">Make Every View Count</h2>
 	<p class="text-gray-600 max-w-2xl mx-auto mb-10">
@@ -162,7 +164,7 @@
 	</div>
 </section>
 
-<section class="py-16 bg-white text-center">
+<section class="py-16 bg-white text-center p-4">
 	<h4 class="text-sm font-bold text-blue-700">STRATEGIC PARTNERSHIPS</h4>
 	<h2 class="text-3xl md:text-4xl font-extrabold text-gray-900 mb-3">Build The Future Together</h2>
 	<p class="text-gray-600 max-w-2xl mx-auto mb-10">
@@ -273,7 +275,7 @@
 	</div>
 </section>
 
-<section class="py-16 bg-white text-center">
+<section class="py-16 bg-white text-center p-4">
 	<h4 class="text-sm font-bold text-blue-700">SPONSORSHIP OPPURTUNITIES</h4>
 	<h2 class="text-3xl md:text-4xl font-extrabold text-gray-900 mb-3">Invest in Excellence</h2>
 	<p class="text-gray-600 max-w-2xl mx-auto mb-10">
