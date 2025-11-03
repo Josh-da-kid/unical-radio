@@ -41,7 +41,7 @@
 </section>
 
 <section
-	class="sm:grid sm:grid-cols-2 space-y-8 mt-12 sm:space-y-0 items-center justify-center mx-auto gap-12 px-8 sm:px-16"
+	class="sm:grid sm:grid-cols-2 space-y-8 mt-12 sm:space-y-0 items-center justify-center mx-auto gap-12 px-8"
 >
 	<div class="flex flex-col gap-2">
 		<img

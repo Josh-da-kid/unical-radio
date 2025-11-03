@@ -49,9 +49,10 @@
 					href="/podcast"
 					class="hover:text-blue-500"
 					class:text-blue-700={$page.url.pathname === '/podcast'}
-					class:text-gray-300={$page.url.pathname !== '/podcast'}>News</a
+					class:text-gray-300={$page.url.pathname !== '/podcast'}>Podcast</a
 				>
 			</li>
+
 			<li>
 				<a
 					href="/programs"
@@ -73,7 +74,7 @@
 					href="/i-report"
 					class="hover:text-blue-500"
 					class:text-blue-700={$page.url.pathname === '/i-report'}
-					class:text-orange-500={$page.url.pathname !== '/i-report'}>IReport</a
+					class:text-orange-500={$page.url.pathname !== '/i-report'}>iReport</a
 				>
 			</li>
 			<li>
@@ -157,7 +158,7 @@
 				<li>
 					<a
 						class="hover:text-blue-700"
-						href="/contact"
+						href="/programs"
 						class:text-blue-700={$page.url.pathname === '/programs'}
 						class:text-gray-500={$page.url.pathname !== '/programs'}
 						on:click={() => (isMenuOpen = false)}>Programs</a
@@ -178,7 +179,7 @@
 						href="/i-report"
 						class:text-blue-700={$page.url.pathname === '/i-report'}
 						class:text-gray-500={$page.url.pathname !== '/i-report'}
-						on:click={() => (isMenuOpen = false)}>IReport</a
+						on:click={() => (isMenuOpen = false)}>iReport</a
 					>
 				</li>
 				<li>

@@ -98,7 +98,7 @@
 <section class="bg-gray-200/50 p-4 sm:p-12 items-center text-center flex flex-col gap-y-5">
 	<section class="mt-8 flex flex-col sm:grid sm:grid-cols-2 gap-16">
 		<div class="text-start flex flex-col gap-3">
-			<h3 class="text-3xl flex sm:text-5xl">UNICAL ETHnET Studios (Cinema)</h3>
+			<h3 class="text-3xl flex sm:text-5xl">UNICAL EthNET Studios (Cinema)</h3>
 			<p class="text-gray-500 text-lg sm:text-xl">
 				Complete digital cinema producton facility with professional studios, equipment, and
 				post-production capabilities for creating broadcast-quality content.
