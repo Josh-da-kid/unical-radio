@@ -15,7 +15,7 @@
 	</div>
 </section>
 
-<section class="sm:flex gap-12 p-4 sm:p-12 bg-gray-200">
+<section class="sm:flex gap-12 space-y-7 sm:space-y-0 p-4 sm:p-12 bg-gray-200">
 	<div class="text-start space-y-6">
 		<h3 class="font-bold text-xl sm:text-3xl text-blue-700">Featured Podcasts</h3>
 		<h2 class="font-bold text-4xl sm:text-5xl sm:w-[400px]">Campus Conversations</h2>
